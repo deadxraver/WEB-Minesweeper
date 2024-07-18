@@ -1,0 +1,10 @@
+button, #button {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-family: "JetBrains Mono", serif;
+    margin: 5px;
+    padding: 16px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: #f615ff;
+}
